@@ -1,0 +1,11 @@
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/networking/CMakeFiles/CHATROOM_LIB.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/networking/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/networking/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/client/CMakeFiles/CHATROOM_CLIENT.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/client/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/client/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/server/CMakeFiles/CHATROOM_SERVER.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/server/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/networking/server/CMakeFiles/rebuild_cache.dir

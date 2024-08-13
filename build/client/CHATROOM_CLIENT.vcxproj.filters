@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jgil\Documents\coding_projects\encrypt_client_serve_app\client\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jgil\Documents\coding_projects\encrypt_client_serve_app\client\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B931707B-6016-3BAB-B86B-A0431BFE6FBA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

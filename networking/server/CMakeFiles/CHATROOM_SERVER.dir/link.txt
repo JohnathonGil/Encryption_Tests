@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CHATROOM_SERVER.dir/main.cpp.o -o CHATROOM_SERVER  ../networking/libCHATROOM_LIB.a 

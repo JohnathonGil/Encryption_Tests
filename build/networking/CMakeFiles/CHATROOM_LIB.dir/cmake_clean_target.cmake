@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libCHATROOM_LIB.a"
+)

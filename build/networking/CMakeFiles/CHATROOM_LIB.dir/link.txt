@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCHATROOM_LIB.a CMakeFiles/CHATROOM_LIB.dir/src/Base.cpp.o
+/usr/bin/ranlib libCHATROOM_LIB.a

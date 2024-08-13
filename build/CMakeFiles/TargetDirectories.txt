@@ -1,0 +1,8 @@
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/networking/CMakeFiles/CHATROOM_LIB.dir
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/networking/CMakeFiles/ALL_BUILD.dir
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/client/CMakeFiles/CHATROOM_CLIENT.dir
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/client/CMakeFiles/ALL_BUILD.dir
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/server/CMakeFiles/CHATROOM_SERVER.dir
+C:/Users/jgil/Documents/coding_projects/encrypt_client_serve_app/build/server/CMakeFiles/ALL_BUILD.dir
